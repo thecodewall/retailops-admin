@@ -30,13 +30,6 @@ TailAdmin provides essential UI components and layouts for building feature-rich
 * [Free Version](https://nextjs-free-demo.tailadmin.com)
 * [Pro Version](https://nextjs-demo.tailadmin.com)
 
-### Other Versions
-
-- [Next.js Version](https://github.com/TailAdmin/free-nextjs-admin-dashboard)
-- [React.js Version](https://github.com/TailAdmin/free-react-tailwind-admin-dashboard)
-- [Vue.js Version](https://github.com/TailAdmin/vue-tailwind-admin-dashboard)
-- [Angular Version](https://github.com/TailAdmin/free-angular-tailwind-dashboard)
-- [Laravel Version](https://github.com/TailAdmin/tailadmin-laravel)
 
 ## Installation
 
@@ -51,7 +44,7 @@ To get started with TailAdmin, ensure you have the following prerequisites insta
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/TailAdmin/free-nextjs-admin-dashboard.git
+git clone https://github.com/thecodewall/retailops-admin.git
 ```
 
 > Windows Users: place the repository near the root of your drive if you face issues while cloning.
